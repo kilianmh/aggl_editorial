@@ -1,12 +1,9 @@
 ---
 layout: page
 title: Aktivit&auml;ten
-date: 2020-10-30 16:00:00 categories:
-blog author: "Kilian"
 ---
 
-2020
-====
+## 2020
 
 -   23.03.2020, 19 Uhr Mitgliederversammlung im Gasthaus Beller
 
@@ -18,8 +15,7 @@ blog author: "Kilian"
     Gymnasiums. Mit Festvortrag „250 Jahre Brautzug Marie Antoinette
     durch den Breisgau“, Referent: Reinhold Hämmerle
 
-2019
-====
+## 2019
 
 -   [Planungen](https://drive.google.com/file/d/1g_t6nVDdL6ksOnJdCGctSCI4S6KaJ2c9/view?usp=sharing)
 
@@ -31,16 +27,14 @@ blog author: "Kilian"
     Gasthäuser in
     Kenzingen](http://dl.ub.uni-freiburg.de/diglit/pforte-2003-21-23/0139))
 
-2018
-====
+## 2018
 
 -   [Baumspende der AgGL am 18.12.2018](baumspende.html)
 
 -   Präsentation der Pforte 2017-2018 (37. und 38. Jahrgang) am
     23.10.2018
 
-2017
-====
+## 2017
 
 -   Seit Mai 2017 stehen alle Ausgaben der Pforte auf einem Server der
     Universitätsbibliothek Freiburg kostenfrei digital zum Download
@@ -50,16 +44,14 @@ blog author: "Kilian"
 
 -   18.-24.07.2017 Reise nach Vinkovci
 
-2016
-====
+## 2016
 
 -   Buchvorstellung von Annemarie Ohler: Das Christentum im Breisgau –
     Wanderungen durch das Mittelalter am 18.03.2016
 
 -   Stadtführung durch Kenzingen am 25.06.2016
 
-2015
-====
+## 2015
 
 -   Mitgliederversammlung März 2015
 
@@ -71,8 +63,7 @@ blog author: "Kilian"
 
 -   Projekt „Alter Amtshof“ November 2015
 
-2014
-====
+## 2014
 
 -   Hammerschmiede nimmt am Deutschen Mühlentag am 9. Juni 2014 teil
 
@@ -86,8 +77,7 @@ blog author: "Kilian"
 -   Gedenkfeier in Eygalayes (Hochprovence) am 22. Februar 2014 für den
     gebürtigen Kenzinger Alfred Epstein und andere Resistancekämpfer
 
-2013
-====
+## 2013
 
 -   Präsentation der Pforte 2012/2013
 
