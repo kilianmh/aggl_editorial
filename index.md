@@ -9,7 +9,7 @@ title: Arbeitsgemeinschaft f&uuml;r Geschichte und Landeskunde in Kenzingen e.V.
 
 Zur Erforschung und Darstellung der Geschichte der Stadt Kenzingen und
 ihren Stadtteilen gibt die „Arbeitsgemeinschaft für Geschichte und
-Landeskunde in Kenzingen e.V.“ zweijährlich die Broschüre Die Pforte
+Landeskunde in Kenzingen e.V.“ zweijährlich das Buch "Die Pforte"
 heraus.
 
 # Ziele der Arbeitsgemeinschaft:
