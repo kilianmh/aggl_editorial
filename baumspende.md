@@ -18,7 +18,7 @@ der Baum bereitet sich auf das Frühjahr vor.
 
 ![Bürgermeister Matthias Guderjan und Bauamtsleiter Gehlen bedanken sich
 bei der AgGL während der Übergabe für die
-Baumspende.](assets/images/Baumspende-der-AgGL-am-18.12.2018-Bild-300x200.jpg)
+Baumspende.](assets/images/Baumspende-der-AgGL-am-18.12.2018-Bild-300x200.jpg){: .image.right}
 
 Seit 15.000 Jahren v. Chr. – in der Altsteinzeit – gibt es in unserer
 Gegend Arten von Birken, Pappeln und Kiefern. Ein Baum ist ein Symbol
