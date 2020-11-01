@@ -1,6 +1,6 @@
 # Site settings
 title: AgGL Kenzingen
-subtitle: - Arbeitsgemeinschaft für Geschichte und Landeskunde in Kenzingen e.V.
+subtitle: Arbeitsgemeinschaft für Geschichte und Landeskunde in Kenzingen e.V.
 email: kilian.haemmerle@protonmail.com
 description: Dies ist die Website der AgGL Kenzingen
 baseurl: "/aggl_editorial" # the subpath of your site, e.g. /blog
