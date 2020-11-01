@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Aktivitäten
+title: Aktivit&auml;ten
 date: 2020-10-30 16:00:00 categories:
 blog author: "Kilian"
 ---
