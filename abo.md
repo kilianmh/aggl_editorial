@@ -4,7 +4,7 @@ author: "Kilian"
 categories: blog
 ---
 
-["Die Pforte" abonnieren](https://drive.google.com/file/d/17ksjswpsLagk2bh-d7gFBu_FVhZLrp8G/view?usp=sharing){:target="_blank"}
+[&#34Die Pforte&#34 abonnieren](https://drive.google.com/file/d/17ksjswpsLagk2bh-d7gFBu_FVhZLrp8G/view?usp=sharing){:target="_blank"}
 ================================================================================================================================================
 
 Mit diesem
