@@ -4,8 +4,7 @@ author: "Kilian"
 categories: blog
 ---
 
-[Mitglied werden](https://drive.google.com/file/d/1wsufc1Hf0DtyxhyE92l4ypLh5wG_PXIt/view?usp=sharing){:target="_blank"}
-=====================================================================================================
+# Mitgliedschaft
 
 Mit diesem
 [Formular](https://drive.google.com/file/d/1wsufc1Hf0DtyxhyE92l4ypLh5wG_PXIt/view?usp=sharing){:target="_blank"}
