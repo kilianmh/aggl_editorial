@@ -1,8 +1,7 @@
 ---
 layout: page
+title: Pforte Digital
 ---
-
-# Die Pforte Digital
 
 [!["Die Pforte"](assets/images/pforte-2020-2021.jpg)](http://dl.ub.uni-freiburg.de/diglit/pforte){:target="_blank"}{: .image.right}
 
