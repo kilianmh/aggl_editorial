@@ -9,9 +9,9 @@ title: Pforte Digital
 Zur Erforschung und Darstellung der Geschichte der Stadt Kenzingen und
 ihren Stadtteilen gibt die „Arbeitsgemeinschaft für Geschichte und
 Landeskunde in Kenzingen e.V.“ zweijährlich die Broschüre "Die Pforte"
-heraus. Im Bereich [„Mitgliedschaft“](mitgliedschaft.html) finden Sie
+heraus. Im Bereich [„Abonnement“](abo.html) finden Sie
 ein
-[Formular](https://drive.google.com/file/d/1wsufc1Hf0DtyxhyE92l4ypLh5wG_PXIt/view?usp=sharing){:target="_blank"},
+[Formular](https://drive.google.com/file/d/17ksjswpsLagk2bh-d7gFBu_FVhZLrp8G/view?usp=sharing){:target="_blank"},
 mit dem Sie Die Pforte abonnieren können.
 
 Den [**Volltext aller
