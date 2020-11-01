@@ -5,7 +5,9 @@ layout: page
 ["Die Pforte" Digital](http://dl.ub.uni-freiburg.de/diglit/pforte){:target="_blank"}
 ==================================================================
 
-![^](assets/images/pforte-2020-2021.jpg)
+
+[!["Die Pforte"](assets/images/pforte-2020-2021.jpg)](http://dl.ub.uni-freiburg.de/diglit/pforte){:target="_blank"}
+
 
 Zur Erforschung und Darstellung der Geschichte der Stadt Kenzingen und
 ihren Stadtteilen gibt die „Arbeitsgemeinschaft für Geschichte und
