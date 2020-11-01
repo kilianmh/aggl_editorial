@@ -1,10 +1,8 @@
 ---
 layout: page
-author: "Kilian"
 categories: blog
+title: Mitgliedschaft
 ---
-
-# Mitgliedschaft
 
 Mit diesem
 [Formular](https://drive.google.com/file/d/1wsufc1Hf0DtyxhyE92l4ypLh5wG_PXIt/view?usp=sharing){:target="_blank"}
