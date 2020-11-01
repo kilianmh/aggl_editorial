@@ -2,7 +2,7 @@
 layout: page
 author: "Kilian"
 categories: blog
-title: "Die Pforte" Abonnement
+title: Die Pforte Abonnement
 ---
 
 Mit diesem
