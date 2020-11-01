@@ -1,3 +1,7 @@
+# Plugins
+plugins:
+- jekyll-asciidoc
+
 # Site settings
 title: Editorial
 subtitle: by HTML5 UP
