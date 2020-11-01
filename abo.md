@@ -1,8 +1,7 @@
 ---
 layout: page
-author: "Kilian"
 categories: blog
-title: Die Pforte Abonnement
+title: Pforte-Abonnement
 ---
 
 Mit diesem
