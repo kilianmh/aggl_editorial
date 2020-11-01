@@ -1,29 +1,29 @@
 # Site settings
-title: Editorial
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A FREE AND FULLY RESPONSIVE SITE TEMPLATE
+title: Arbeitsgemeinschaft für Geschichte und Landeskunde in Kenzingen e.V.
+subtitle: 
+email: kilian.haemmerle@protonmail.com
+description: Dies ist die Website der AgGL Kenzingen
 baseurl: "/aggl_editorial" # the subpath of your site, e.g. /blog
 url: "https://kilianmh.github.io" # the base hostname & protocol for your site
-author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+author: Kilian M. Haemmerle
+street_address: Kirchstr. 17
+city: Kenzingen
+state: Baden-W&uuml;rttemberg
+zip_code: 79341
+country: Deutschland
+# phone: (716) 555-5555
 
 # Social settings
-500px_url:
-facebook_url:
-github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-pinterest_url:
-slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+# 500px_url:
+# facebook_url:
+github_url: https://github.com/kilianmh/aggl_editorial
+# gitlab_url: https://gitlab.com/u/andrewbanchich
+# googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
+# instagram_url: https://instagram.com
+# linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+# pinterest_url:
+# slack_url:
+# twitter_url: https://twitter.com/andrewbanchich
 
 # Build settings
 markdown: kramdown
