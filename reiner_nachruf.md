@@ -4,7 +4,7 @@ title: Trauer um Helmut Reiner - Nachruf
 categories: bericht
 ---
 
-![Helmut Reiner](assets/images/helmut-reiner-225x300.jpg)
+![Helmut Reiner](assets/images/helmut-reiner-225x300.jpg){: images.right}
 
 Die Arbeitsgemeinschaft für Geschichte und Landeskunde In Kenzingen e.V.
 (AgGL) trauert um ihr Ehrenmitglied
