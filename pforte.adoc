@@ -1,0 +1,17 @@
+---
+layout: page
+---
+
+== http://dl.ub.uni-freiburg.de/diglit/pforte["Die Pforte" Digital^]
+
+[.image.right]
+[link=http://dl.ub.uni-freiburg.de/diglit/pforte]
+image::assets/images/pforte-2020-2021.jpg[^]
+
+Zur Erforschung und Darstellung der Geschichte der Stadt Kenzingen und ihren Stadtteilen gibt die „Arbeitsgemeinschaft für Geschichte und Landeskunde in Kenzingen e.V.“ zweijährlich die Broschüre "Die Pforte" heraus. Im Bereich link:mitgliedschaft.html[„Mitgliedschaft“] finden Sie ein https://drive.google.com/file/d/1wsufc1Hf0DtyxhyE92l4ypLh5wG_PXIt/view?usp=sharing[Formular^], mit dem Sie Die Pforte abonnieren können.
+
+Den http://dl.ub.uni-freiburg.de/diglit/pforte[**Volltext aller Artikel**^] finden Sie in der Digitalen Bibliothek der Universit&auml;tsbibliothek Freiburg kostenlos unter:
+
+http://dl.ub.uni-freiburg.de/diglit/pforte[http://dl.ub.uni-freiburg.de/diglit/pforte^]
+
+Dort finden Sie alle Ausgaben in chronologischer Reihenfolge. Daneben gibt es auch ein Autorenverzeichnis.
