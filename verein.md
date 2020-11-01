@@ -12,12 +12,12 @@ Amtsgericht Freiburg VR 270232
 
 Von dem Finanzamt Emmendingen als gemeinnütziger Verein anerkannt.
 
-Satzung 
+Satzung
 -------
 
 Die Satzung der Arbeitsgemeinschaft für Geschichte und Landeskunde in
 Kenzingen e.V. als
-[PDF-Datei](https://drive.google.com/file/d/1JpnO0R-vrNKrBWts9BqQIfkMrCzfctHJ/view?usp=sharing).
+[PDF-Datei](https://drive.google.com/file/d/1JpnO0R-vrNKrBWts9BqQIfkMrCzfctHJ/view?usp=sharing){:target="_blank"}.
 
 Vorstand
 --------
@@ -37,7 +37,7 @@ Breitenfeldstr. 25
 79341 Kenzingen  
 Tel. (07644) 7605  
 
-Bankverbindungen 
+Bankverbindungen
 ----------------
 
 Sparkasse Freiburg-Nördlicher Breisgau  
