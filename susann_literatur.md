@@ -6,7 +6,7 @@ categories: blog
 ---
 
 Bemerkungen zu den folgenden Literaturangaben
-=============================================
+---------------------------------------------
 
 Die Literatur zum Hermann-Sussann-Preis sowie zu und von Hermann Sussann
 ist in der Freiburger Universitätsbibliothek (UB FR) teils als

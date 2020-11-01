@@ -2,6 +2,7 @@
 layout: page
 author: "Kilian"
 categories: blog
+title: Kontakt
 ---
 
 Bei Fragen wenden Sie sich gerne per E-Mail an Klaus Weber oder Christel Benzin.

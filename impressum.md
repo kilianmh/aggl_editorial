@@ -1,11 +1,9 @@
 ---
 layout: page
 author: "Kilian"
-categories: blog 
+categories: blog
+title: Impressum
 ---
-
-Impressum
-=========
 
 Arbeitsgemeinschaft für Geschichte und Landeskunde in Kenzingen e. V.
 Kirchstr. 17  

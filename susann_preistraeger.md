@@ -4,7 +4,6 @@ categories: preis
 title: Herrmann-Susann-Preistr&auml;ger
 ---
 
-
 Der Preis ist benannt nach Dr. Hermann Sussann (geb. 11.6.1853 in
 Unterbaldingen/Baar, gest. 27.4.1896 in Villingen). Der Lehrerssohn
 studierte nach dem Abitur zunächst in Freiburg Theologie, wandte sich

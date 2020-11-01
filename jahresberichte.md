@@ -4,9 +4,6 @@ title: Jahresberichte
 date: 2020-10-30 16:00:00
 ---
 
-Jahresberichte
-==============
-
 [Jahresbericht
 2019](https://drive.google.com/file/d/1Xvp9h3ffemBw82-j6Oi4i1HKSy2vIkJM/view?usp=sharing){:target="_blank"}
 
