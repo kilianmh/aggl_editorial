@@ -4,16 +4,14 @@ title: Arbeitsgemeinschaft f&uuml;r Geschichte und Landeskunde in Kenzingen e.V.
 ---
 
 
-
-![alt text](image "/assets/images/pforte-2020-2021.jpg")(http://dl.ub.uni-freiburg.de/diglit/pforte)
-
 Zur Erforschung und Darstellung der Geschichte der Stadt Kenzingen und
 ihren Stadtteilen gibt die „Arbeitsgemeinschaft für Geschichte und
 Landeskunde in Kenzingen e.V.“ zweijährlich die Broschüre Die Pforte
 heraus.
 
-Ziele der Arbeitsgemeinschaft:
-------------------------------
+!["Die Pforte" Digital](/assets/images/pforte-2020-2021.jpg)(http://dl.ub.uni-freiburg.de/diglit/pforte)
+
+# Ziele der Arbeitsgemeinschaft:
 
 -   Erforschung und Darstellung der Geschichte der Stadt Kenzingen, des
     „Unteren Breisgaus“ (ehem. Amtsbezirk Kenzingen) und die Förderung
