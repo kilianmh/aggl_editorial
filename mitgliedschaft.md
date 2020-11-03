@@ -10,7 +10,6 @@ können Sie den Beitritt zur AgGL erklären.
 
 Bitte senden Sie das ausgefüllte Formular an folgende Adresse:
 
-Geschäftsstelle  
 AG für Geschichte und Landeskunde in Kenzingen e.V.  
 Christel Benzin  
 Breitenfeldstr. 25  
