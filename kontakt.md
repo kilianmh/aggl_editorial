@@ -5,22 +5,23 @@ categories: blog
 title: Kontakt
 ---
 
-Bei Fragen wenden Sie sich gerne per E-Mail an Klaus Weber oder Christel Benzin.
-
-Vorsitzender  
+### Vorsitzender  
 Klaus Weber  
 Kirchstr. 17  
 79341 Kenzingen
+Telefon: 07644/7110
+E-Mail: [weber.kl@gmx.net](mailto:weber.kl@gmx.net)
 
-Geschäftsstelle  
+### Geschäftsstelle  
 Christel Benzin  
 Breitenfeldstr. 25  
 79341 Kenzingen  
-Tel. (07644) 7605  
+Telefon: 07644/7605
+E-Mail: [ch-benzin@web.de](mailto:ch-benzin@web.de)
 
-Webmaster  
+### Webmaster  
 Kilian M. Haemmerle  
 Sisteroner Weg 6  
 79336 Herbolzheim  
-E-Mail: <kilian.haemmerle@protonmail.com>  
-Tel. 015905369688
+E-Mail: [kilian.haemmerle@protonmail.com](mailto:kilian.haemmerle@protonmail.com)
+Tel. 01590/5369688

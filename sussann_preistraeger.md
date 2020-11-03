@@ -1,7 +1,7 @@
 ---
 layout: page
 categories: preis
-title: Herrmann-Susann-Preistr&auml;ger
+title: Hermann-Sussann-Preistr&auml;ger
 ---
 
 Der Preis ist benannt nach Dr. Hermann Sussann (geb. 11.6.1853 in
@@ -74,3 +74,4 @@ Liste der Hermann-Sussann-Preisträger:
 |39 |2017|Wornath, Kevin        |Kenzingen               |
 |40 |2018|Hubner, Chiara-Marlen |Endingen                |
 |41 |2019|Müll, Justin          |Endingen                |
+|42 |2020|Moser, Tobias         |Herbolzheim             |

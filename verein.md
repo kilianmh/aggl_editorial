@@ -12,33 +12,29 @@ Amtsgericht Freiburg VR 270232
 
 Von dem Finanzamt Emmendingen als gemeinnütziger Verein anerkannt.
 
-Satzung
--------
+## Satzung
 
-Die Satzung der Arbeitsgemeinschaft für Geschichte und Landeskunde in
-Kenzingen e.V. als
-[PDF-Datei](https://drive.google.com/file/d/1JpnO0R-vrNKrBWts9BqQIfkMrCzfctHJ/view?usp=sharing){:target="_blank"}.
+Die Satzung der Arbeitsgemeinschaft für Geschichte und Landeskunde in Kenzingen e.V. als [PDF-Datei](https://drive.google.com/file/d/1JpnO0R-vrNKrBWts9BqQIfkMrCzfctHJ/view?usp=sharing){:target="_blank"}.
 
-Vorstand
---------
+## Vorstand
 
 1.Vorsitzender: Klaus Weber  
 2.Vorsitzender: NN  
 Schriftleiterin der Pforte: Roswitha Weber  
-Schriftführer: Uwe Feißt  
+Schriftführer: Dr. Herbert Walter  
 Kassenwartin: Christel Benzin  
-Beirat: Dr. Eberhard Kimmi und Dr. Hans-Werner Retterath
+Beisitzer: Detlef Freßle, Dr. Eberhard Kimmi, Dr. Hans-Werner Retterath und Roswitha Weber, Uwe Feißt
 
-Geschäftsstelle
----------------
+## Geschäftsstelle
+
 
 Christel Benzin  
 Breitenfeldstr. 25  
 79341 Kenzingen  
-Tel. (07644) 7605  
+Telefon: 07644/7605  
+E-Mail: ch-benzin@web.de
 
-Bankverbindungen
-----------------
+## Bankverbindungen
 
 Sparkasse Freiburg-Nördlicher Breisgau  
 Konto: "Arbeitsgemeinschaft für Geschichte und Landeskunde in Kenzingen
