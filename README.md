@@ -1,8 +1,8 @@
-# (WIP) Editorial - Jekyll Theme
+# (WIP) Editorial theme - Jekyll Theme - AgGL Kenzingen
 
 A Jekyll version of the "Editorial" theme by [HTML5 UP](https://html5up.net/).
 
-![Editorial Theme](assets/images/screenshot.jpg "Editorial Theme")
+![AgGL Kenzingen](assets/images/kopfbild.png "AgGL Kenzingen")
 
 # How to Use
 
