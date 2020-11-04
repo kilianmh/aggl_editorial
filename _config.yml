@@ -1,17 +1,17 @@
 # Site settings
 title: AgGL Kenzingen e.V.
 subtitle: Arbeitsgemeinschaft für Geschichte und Landeskunde in Kenzingen e.V.
-email: kilian.haemmerle@protonmail.com
-description: Dies ist die Website der AgGL Kenzingen
+email: weber.kl@gmx.net
+description: Dies ist die Homepage der AgGL Kenzingen e.V.
 baseurl: "/aggl_editorial" # the subpath of your site, e.g. /blog
 url: "https://kilianmh.github.io" # the base hostname & protocol for your site
-author: Kilian M. Haemmerle
+author: Klaus Weber
 street_address: Kirchstr. 17
 city: Kenzingen
 state: Baden-W&uuml;rttemberg
 zip_code: 79341
 country: Deutschland
-# phone: (716) 555-5555
+phone: 07644/7110
 
 # Social settings
 # 500px_url:
