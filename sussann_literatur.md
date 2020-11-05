@@ -5,8 +5,8 @@ author: "Kilian"
 categories: blog
 ---
 
-Bemerkungen zu den folgenden Literaturangaben
----------------------------------------------
+### Bemerkungen zu den folgenden Literaturangaben
+
 
 Die Literatur zum Hermann-Sussann-Preis sowie zu und von Hermann Sussann
 ist in der Freiburger Universitätsbibliothek (UB FR) teils als
@@ -16,8 +16,8 @@ angegeben. Darüber hinaus befindet sich die Literatur auch in
 verschiedenen anderen Freiburger Bibliotheken (Fachbereichsbibliotheken
 der Universität, Stadtbibliothek, Stadtarchivsbibliothek).
 
-Literatur zum Hermann-Sussann-Preis
-===================================
+### Literatur zum Hermann-Sussann-Preis
+
 
 -   Wilhelm Schneebeli: Hermann-Sussann-Preis. Zum Symbol der Urkunde.  
     In: Die Pforte, 4 (1984), S. 129.  
@@ -34,8 +34,7 @@ Literatur zum Hermann-Sussann-Preis
     In: Die Pforte, 32/33 (2012/2013), S. 293-304.  
     Signatur UB FR (Lesesaal): Z-GL 712  
 
-Literatur über Hermann Sussann
-==============================
+### Literatur über Hermann Sussann
 
 -   F.\[ridrich\] Pfaff: Hermann Sussann. In: Badische Biographien. V.
     Theil (1891-1901). Bd. II. Heidelberg: Winter 1906, S. 757-759.  
@@ -45,8 +44,7 @@ Literatur über Hermann Sussann
     (1983), S. 83-88 (mit Foto).  
     Signatur UB FR (Lesesaal): Z-GL 712  
 
-Literatur von Hermann Sussann
-=============================
+### Literatur von Hermann Sussann
 
 -   Kenzingen im dreissigjährigen Krieg. Nach grösstenteils ungedruckten
     archivalischen Urkunden.  
