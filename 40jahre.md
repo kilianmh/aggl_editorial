@@ -1,10 +1,9 @@
 ---
 layout: page
 author: "Kilian"
-categories: blog
 title: 40 Jahre AgGL Kenzingen
 ---
 
-- [Kurzfassung vom 05.10.2020](https://drive.google.com/file/d/1KHyAnA5OJscbr8UTSOtm3LRhVE7hVX3O/view?usp=sharing){:target="_blank"}
+- Bericht vom 05.10.2020: [Kurzfassung](https://drive.google.com/file/d/1YUPiRTGWm42K_O2eLjKcf3sKUuUS1Edg/view?usp=sharing){:target="_blank"} und [Erweiterte Fassung](https://drive.google.com/file/d/1dIdgBVvyxKAzpeZFoWd2l_LM-TKlfF-k/view?usp=sharing){:target="_blank"}
 
-# - Erweiterte Fassung vom 05.10.20
+- Badische Zeitung vom 09.09.2020: ["Wir waren hochmotiviert"](https://www.badische-zeitung.de/wir-waren-hochmotiviert--193622375.html)

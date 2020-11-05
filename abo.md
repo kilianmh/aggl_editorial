@@ -1,6 +1,5 @@
 ---
 layout: page
-categories: blog
 title: Pforte-Abonnement
 ---
 
