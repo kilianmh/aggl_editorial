@@ -1,4 +1,4 @@
-[https://kilianmh.github.io/aggl_editorial/](https://kilianmh.github.io/aggl_editorial/)
+[https://kilianmh.github.io/aggl_editorial/](https://kilianmh.github.io/aggl_editorial/){:target="_blank"}
 
 # (WIP) Editorial - Jekyll Theme
 
