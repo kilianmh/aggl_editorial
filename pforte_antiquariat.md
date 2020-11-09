@@ -18,4 +18,4 @@ Unseren Bestand erfahren Sie in k&uuml;rze nach unserer Inventur!
 ![Die Pforte 200405](assets/images/pforte200405deckblatt.jpg){: .image.right}
 
 ![Die Pforte 200103](assets/images/pforte200103deckblatt.jpg){: .image.left}
-![Die Pforte 199800](assets/images/pforte199800){: image.right}
+![Die Pforte 199800](assets/images/pforte199800deckblatt.jpg){: image.right}
