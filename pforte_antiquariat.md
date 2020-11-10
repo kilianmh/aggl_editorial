@@ -5,10 +5,10 @@ title: Pforte-Antiquariat
 Hier sehen Sie, welche Versionen der "Pforte" noch verf&uuml;gbar sind
 
 
-{% include image.html direction="left" url="assets/images/pforte202021deckblatt.jpg" description="Pforte 2020/21" %}
-{% include image.html direction="right" url="assets/images/pforte2019deckblatt.jpg" description="Pforte 2019" %}
-{% include image.html direction="left" url="assets/images/pforte201718deckblatt.jpg" description="Pforte 2017/18" %}
-{% include image.html direction="right" url="assets/images/pforte201416deckblatt.jpg" description="Pforte 2014-16" %}
+{% include image.html direction="left" url="assets/images/pforte202021deckblatt.jpg" description='"Die Pforte" 2020/21' %}
+{% include image.html direction="right" url="assets/images/pforte2019deckblatt.jpg" description='"Die Pforte" 2019' %}
+{% include image.html direction="left" url="assets/images/pforte201718deckblatt.jpg" description=""Die Pforte" 2017/18" %}
+{% include image.html direction="right" url="assets/images/pforte201416deckblatt.jpg" description=""Die Pforte" 2014-16" %}
 {% include image.html direction="left" url="assets/images/pforte201213deckblatt.jpg" description="Pforte 2012/13" %}
 {% include image.html direction="right" url="assets/images/pforte201011deckblatt.jpg" description="Pforte 2010/11" %}
 {% include image.html direction="left" url="assets/images/pforte200607deckblatt.jpg" description="Pforte 2006/07" %}
