@@ -1,3 +1,4 @@
+<!--
 <div>
 <figure class="image {{include.direction}}">
   <a href="{{ include.link }}">
@@ -5,4 +6,12 @@
   </a>
   <figcaption>{{ include.description }}</figcaption>
 </figure>
+</div>
+-->
+
+<div class="image {{ include.direction }}">
+    <a href="{{ include.link }}">
+      <img src="{{ include.url }}" alt="{{ include.description }}" />
+    </a>
+    <figcaption>{{ include.description }}</figcaption>
 </div>
