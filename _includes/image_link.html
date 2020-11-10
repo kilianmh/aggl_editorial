@@ -1,4 +1,8 @@
-<a class="image {{include.direction}}" href="{{ include.link }}" target="_blank">
-  <img src="{{ include.url }}" alt="{{ include.description }}">
+<div>
+<figure class="image {{include.direction}}">
+  <a href="{{ include.link }}">
+    <img src="{{ include.url }}" alt="{{ include.description }}">
+  </a>
   <figcaption>{{ include.description }}</figcaption>
-</a>
+</figure>
+</div>
