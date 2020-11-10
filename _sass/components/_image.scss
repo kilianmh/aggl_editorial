@@ -87,6 +87,10 @@
 			@include vendor('transition', 'transform #{_duration(transition)} ease');
 		}
 
+		p {
+			text-align: center;
+		}
+
 		&:hover {
 			img {
 				@include vendor('transform', 'scale(1.075)');
