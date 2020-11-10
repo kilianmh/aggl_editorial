@@ -2,7 +2,7 @@
 title: Pforte-Antiquariat
 ---
 
-Hier sehen Sie, welche Versionen der "Pforte" noch verf&uuml;gbar sind. Bestand erfahren Sie in k&uuml;rze nach unserer Inventur!
+Hier sehen Sie, welche Versionen der "Pforte" noch verf&uuml;gbar sind
 
 
 {% include image.html direction="left" url="assets/images/pforte202021deckblatt.jpg" description="Pforte 2020/21" %}
