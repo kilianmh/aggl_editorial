@@ -14,6 +14,6 @@ Hier sehen Sie, welche Versionen der "Pforte" noch verf&uuml;gbar sind
 {% include image.html direction="left" url="assets/images/pforte200607deckblatt.jpg" description="Die Pforte 2006/07" link="http://dl.ub.uni-freiburg.de/diglit/pforte-2007-26-27" %}
 {% include image.html direction="right" url="assets/images/pforte200405deckblatt.jpg" description="Die Pforte 2004/05" link="http://dl.ub.uni-freiburg.de/diglit/pforte-2005-24-25" %}
 {% include image.html direction="left" url="assets/images/pforte200103deckblatt.jpg" description="Die Pforte 2001-03" link="http://dl.ub.uni-freiburg.de/diglit/pforte-2003-21-23" %}
-{% include image.html direction="right" url="assets/images/pforte199800deckblatt.jpg" description="Die Pforte 1998/00" link="http://dl.ub.uni-freiburg.de/diglit/pforte-2000-18-20?sid=e5958987487bb1d7567d7b555afc58cf %}
+{% include image.html direction="right" url="assets/images/pforte199800deckblatt.jpg" description="Die Pforte 1998/00" link="http://dl.ub.uni-freiburg.de/diglit/pforte-2000-18-20" %}
 {% include image.html direction="left" url="assets/images/pforte1996deckblatt.jpg" description="Die Pforte 1996" link="http://dl.ub.uni-freiburg.de/diglit/pforte-1996-16" %}
 {% include image.html direction="right" url="assets/images/pforte199495deckblatt.jpg" description="Die Pforte 1994/95" link="http://dl.ub.uni-freiburg.de/diglit/pforte-1995-14-15" %}
