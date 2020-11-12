@@ -21,3 +21,5 @@ Inhaltlich Verantwortlicher gemäß § 6 MDStV: Klaus Weber
 
 Haftungshinweis:  
 Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.  
+
+Diese Website wurde erstellt mit Hilfe von [HTML5 UP](https://html5up.net"), [SVGBackgrounds.com](https://svgbackgrounds.com/) und [Jekyll](https://jekyllrb.com/).
