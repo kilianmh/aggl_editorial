@@ -18,7 +18,7 @@
 		padding: 0;
 		border: 0;
 		font-size: 100%;
-		font-color: black;
+		color: #503820;
 		font: inherit;
 		vertical-align: baseline;
 	}
@@ -2087,7 +2087,7 @@
 /* Type */
 
 	body, input, select, textarea {
-		color: #7f888f;
+		color: #503820;
 		font-family: "Open Sans", sans-serif;
 		font-size: 13pt;
 		font-weight: 400;
@@ -2143,7 +2143,7 @@
 			}
 
 	strong, b {
-		color: #3d4449;
+		color: #503820;
 		font-weight: 600;
 	}
 
@@ -2156,7 +2156,7 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #3d4449;
+		color: #503820;
 		font-family: "Roboto Slab", serif;
 		font-weight: 700;
 		line-height: 1.5;
@@ -2321,7 +2321,7 @@
 	}
 
 	label {
-		color: #3d4449;
+		color: #503820;
 		display: block;
 		font-size: 0.9em;
 		font-weight: 600;
@@ -3619,7 +3619,7 @@
 
 		border-right: 3px solid #f56a6a;
 		border-top: 3px solid #f56a6a;
-		font-color: black;
+		font-color: #503820;
 		font-size: 1em;
 		position: relative;
 		width: 26em;
@@ -3652,7 +3652,7 @@
 				}
 
 			#sidebar > .inner > .alt {
-				background-color: #eff1f2;
+				background-color: #503820;
 				border-bottom: 0;
 				margin: -2.22222em 0 4.44444em -2.22222em;
 				padding: 2.22222em;
@@ -3797,7 +3797,7 @@
 			}
 
 				#sidebar .toggle:before {
-					color: #7f888f;
+					color: #503820;
 					margin-left: -0.0625em;
 					margin-top: -0.25em;
 					font-size: 1.1rem;
@@ -3984,7 +3984,7 @@
 /* Footer */
 
 	#footer .copyright {
-		color: #9fa3a6;
+		color: #503820;
 		font-size: 0.9em;
 	}
 
@@ -3999,7 +3999,7 @@
 		-webkit-user-select: none;
 		-ms-user-select: none;
 		user-select: none;
-		color: #3d4449;
+		color: #503820;
 		font-family: "Roboto Slab", serif;
 		font-family: 400;
 		letter-spacing: 0.075em;
