@@ -3709,7 +3709,7 @@
 		@media screen and (max-width: 1680px) {
 
 			#sidebar {
-				width: 24em;
+				width: 23em;
 			}
 
 				#sidebar > .inner {
@@ -3725,7 +3725,7 @@
 
 				#sidebar .toggle {
 					height: 6.25em;
-					left: 24em;
+					left: 23em;
 					line-height: 6.25em;
 					text-indent: 5em;
 					width: 5em;
@@ -4014,8 +4014,8 @@
 			color: inherit;
 			cursor: pointer;
 			display: block;
-			font-size: 0.9em;
-			padding: 0.625em 0;
+			font-size: 1.2em;
+			padding: 0.4em 0;
 		}
 
 			#menu ul a:hover, #menu ul span:hover {
