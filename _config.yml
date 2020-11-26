@@ -12,7 +12,7 @@ state: Baden-Württemberg
 zip_code: 79341
 country: Deutschland
 phone: 07644-7110
-pforte: "&#34;Die Pforte&#34;""
+pforte: '"Die Pforte"'
 
 # Social settings
 # 500px_url:
