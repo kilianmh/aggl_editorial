@@ -23,5 +23,4 @@ E-Mail: [ch-benzin@web.de](mailto:ch-benzin@web.de)
 Kilian M. H&auml;mmerle  
 Sisteroner Weg 6  
 79336 Herbolzheim  
-E-Mail: [kilian.haemmerle@protonmail.com](mailto:kilian.haemmerle@protonmail.com)  
-Tel. 01590/5369688
+E-Mail: [kilian.haemmerle@protonmail.com](mailto:kilian.haemmerle@protonmail.com)
