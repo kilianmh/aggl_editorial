@@ -1,4 +1,4 @@
-[https://kilianmh.github.io/aggl_editorial/](https://kilianmh.github.io/aggl_editorial/){:target="_blank"}
+Dieses Repository ist gehostet unter der Domain https://www.aggl-kenzingen.org/
 
 # (WIP) Editorial - Jekyll Theme
 
