@@ -4,9 +4,17 @@ title: Aktivit&auml;ten
 ---
 
 ### 2021
--   10.05.2021, 19 Uhr - Vortragsveranstaltung im Historischen Bürgersaal Rathaus „Erinnerungsarbeit zum Deutsch-Französischen Krieg 1870/71 vor 150 Jahren“.  
-  Referent: Reinhold Hämmerle
 
+- Herbst 2021 - Vortragsveranstaltung „Gemeißelt in Stein: Erinnerungen im Grenzland an den Deutsch-Französischen Krieg 1870/1“. Referent: Reinhold Hämmerle
+
+- 12.05.2021 - ["Stummer Zeitzeuge gegen Krieg und Nationalismus"](https://www.wzo.de/home/beitrag-detail?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=908&cHash=777a174d184ba5b64d26ea5a134a73fe){:target="_blank"}
+
+- 11.05.2021 [Badische Zeitung Leserbrief zum Kriegerdenkmal](https://drive.google.com/file/d/1syxgsmOIfX7S-W2kieeIUpsjG-5EvqvZ/view?usp=sharing){:target="_blank"}
+
+- 07.05.2021 [Badische Zeitung Artikel zum Denkmal 1870/1871 in Kenzinge](https://drive.google.com/file/d/1hchOi0Ykigisngo-tsBw9JmrWRUCItrd/view?usp=sharing){:target="_blank"}
+  
+- 05.05.2021 [Pressegespräch zum Denkmal 1870/1871 in Kenzinge](https://drive.google.com/file/d/1KK-KhObUGmILFSCyV9D9oxBNwvO03OGf/view?usp=sharing){:target="_blank"}
+  
 
 ### 2020
 
