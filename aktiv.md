@@ -7,6 +7,8 @@ title: Aktivit&auml;ten
 
 - Herbst 2021 - Vortragsveranstaltung „Gemeißelt in Stein: Erinnerungen im Grenzland an den Deutsch-Französischen Krieg 1870/1“. Referent: Reinhold Hämmerle
 
+- 17.06.2021 - 200 Jahre Gebhard Kromer (geb. 17.06.1821), dazu in der BZ: ["Der Bombacher Revolutionär Gebhard Kromer wird 200"](https://www.badische-zeitung.de/der-bombacher-revolutionaer-gebhard-kromer-wird-200--202663580.html){:target="_blank"} und ["Gedenken an Gebhard Kromer"](https://www.badische-zeitung.de/gedenken-an-gebhard-kromer--202880765.html){:target="_blank"}
+
 - 12.05.2021 - WZO: ["Stummer Zeitzeuge gegen Krieg und Nationalismus"](https://www.wzo.de/home/beitrag-detail?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=908&cHash=777a174d184ba5b64d26ea5a134a73fe){:target="_blank"}
 
 - 11.05.2021 - BZ: [Leserbrief zum Kriegerdenkmal](https://drive.google.com/file/d/1syxgsmOIfX7S-W2kieeIUpsjG-5EvqvZ/view?usp=sharing){:target="_blank"}
