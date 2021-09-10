@@ -4,7 +4,7 @@ subtitle: Arbeitsgemeinschaft für Geschichte und Landeskunde in Kenzingen e.V.
 email: weber.kl@gmx.net
 description: Dies ist die Homepage der AgGL Kenzingen e.V.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://kilianmh.github.io" # the base hostname & protocol for your site
+url: "https://www.aggl-kenzingen.org/" # the base hostname & protocol for your site
 author: Klaus Weber
 street_address: Kirchstr. 17
 city: Kenzingen
@@ -13,7 +13,7 @@ zip_code: 79341
 country: Deutschland
 phone: 07644-7110
 pforte: '"Die Pforte"'
-
+pdf-url: "https://www.aggl-kenzingen.org/assets/dokumente/"
 # Social settings
 # 500px_url:
 # facebook_url:
