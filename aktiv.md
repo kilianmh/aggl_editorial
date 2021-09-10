@@ -7,9 +7,11 @@ title: Aktivit&auml;ten
 
 - Herbst 2021 - Vortragsveranstaltung „Gemeißelt in Stein: Erinnerungen im Grenzland an den Deutsch-Französischen Krieg 1870/1“. Referent: Reinhold Hämmerle
 
-- 09.07.2021 - "Grosse Ehre für Inge Auerbacher"
+- 09.07.2021 - "Grosse Ehre für Inge Auerbacher"["PDF"]({{ site.pdf-url }} 20210709_ehre_auerbacher.pdf){:target="_blank"}
 
-- 17.06.2021 - 200 Jahre Gebhard Kromer (geb. 17.06.1821), dazu in der BZ: ["Der Bombacher Revolutionär Gebhard Kromer wird 200"](https://www.badische-zeitung.de/der-bombacher-revolutionaer-gebhard-kromer-wird-200--202663580.html){:target="_blank"}["PDF"]({{ site.pdf-url }}20210617_bombacher_revolutionaer_kromer_200.pdf){:target="_blank"} und ["Gedenken an Gebhard Kromer"](https://www.badische-zeitung.de/gedenken-an-gebhard-kromer--202880765.html){:target="_blank"}["PDF"]({{ site.pdf-url }}2021_gedenken_kromer.pdf){:target="_blank"}
+- 17.06.2021 - 200 Jahre Gebhard Kromer (geb. 17.06.1821), dazu in der BZ: ["Der Bombacher Revolutionär Gebhard Kromer wird 200"](https://www.badische-zeitung.de/der-bombacher-revolutionaer-gebhard-kromer-wird-200--202663580.html){:target="_blank"}
+["PDF"]({{ site.pdf-url }}20210617_bombacher_revolutionaer_kromer_200.pdf){:target="_blank"} und ["Gedenken an Gebhard Kromer"](https://www.badische-zeitung.de/gedenken-an-gebhard-kromer--202880765.html){:target="_blank"}
+["PDF"](https://www.aggl-kenzingen.org/assets/dokumente/2021_gedenken_kromer.pdf){:target="_blank"}
 
 - 12.05.2021 - WZO: ["Stummer Zeitzeuge gegen Krieg und Nationalismus"](https://www.wzo.de/home/beitrag-detail?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=908&cHash=777a174d184ba5b64d26ea5a134a73fe){:target="_blank"}
 
