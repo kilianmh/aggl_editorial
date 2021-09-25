@@ -9,7 +9,7 @@ title: Aktivit&auml;ten
 
 - [Jahresspiegel 2021]({{ site.pdf-url }}2021_jahresspiegel_erste_haelfte.pdf){:target="_blank"} (Stand 02.08.2021)
 
-- [Geschichtliche Verbindungen zum Elsass in Erinnerung bewahren]({{ site.pdf-url }}20210828_besuch_andlau.pdf){:target="_blank"}
+- [Geschichtliche Verbindungen zum Elsass in Erinnerung bewahren]({{ site.pdf-url }}2021_museumfuehrer_ueberreicht.pdf){:target="_blank"}
 
 - ["Der Ruf der Hochburg ragt bis Rom"]({{ site.pdf-url }}2021_emmendinger_tor.pdf){:target="_blank"}
 
