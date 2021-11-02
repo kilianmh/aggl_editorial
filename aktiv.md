@@ -5,6 +5,12 @@ title: Aktivit&auml;ten
 
 ### 2021
 
+- 20.10.2021 -[Bericht zur Mitgliederversammlung in der Badischen Zeitung]({{ site.pdf-url }}20211023_mitgliederversammlung_bz.pdf){:target="_blank"}
+
+- 20.10.2021 -[Bericht zur Mitgliederversammlung im Breisgauer Wochenbericht]({{ site.pdf-url }}20211020_mitgliederversammlung_ohler_wzo.pdf){:target="_blank"}
+
+- 11.10.2021 - [41 Jahre AG]({{ site.pdf-url }}20211011_41_jahre_ag.pdf){:target="_blank"}
+
 - 11.10.2021 - [Mitgliederversammlung]({{ site.pdf-url }}20211011_einladung_mitgliederversammlung.pdf){:target="_blank"}
 
 - [Jahresspiegel 2021]({{ site.pdf-url }}2021_jahresspiegel_erste_haelfte.pdf){:target="_blank"} (Stand 02.08.2021)
