@@ -1,11 +1,15 @@
 ---
 layout: page
-title: Aktivit&auml;ten
+title: Aktivit&auml;ten / Aktuelles
 ---
 
 ### 2022
 
-- 26.01.2022 -[Inge Auerbacher, Shoah-Überlebende bei Markus Lanz (Direktlink zur Aufnahme)](https://www.zdf.de/gesellschaft/markus-lanz/markus-lanz-vom-26-januar-2022-100.html){:target="_blank"}(Video verfügbar bis 26.01.2023)
+- 01.02.2022 [Multiplikatorentreffen mit Inge Auerbacher in Kenzingen: Begegnung und W&uuml;rdigung]
+
+- 27.01.2022 - [Auf Initiative der AgGL Kenzingen: Inge Auerbacher spricht im Bundestag](https://www.bundestag.de/dokumente/textarchiv/2022/kw04-gedenkstunde-873604){:target="_blank"}
+
+- 26.01.2022 - [Inge Auerbacher, Shoah-Überlebende bei Markus Lanz (Direktlink zur Aufnahme)](https://www.zdf.de/gesellschaft/markus-lanz/markus-lanz-vom-26-januar-2022-100.html){:target="_blank"}(Video verfügbar bis 26.01.2023)
 
 - 25.01.2022 - [Inge Auerbacher in der Badischen Zeitung]({{ site.pdf-url }}20220125_inge_auerbacher-bz.pdf){:target="_blank"}
 
