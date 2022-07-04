@@ -5,7 +5,9 @@ title: Aktivit&auml;ten / Aktuelles
 
 ### 2022
 
-- [Aktuelle Aktivitäten um Franz Sales Meyer]({{ site.pdf-url }}20220412-uebersicht-aktivitaeten-fsm.pdf){:target="_blank"} + [Büste]({{ site.pdf-url }}franz-sales-meyer-bueste.jpg){:target="_blank"}
+- 08.05.2022 - [Rede von Roswitha Weber zur Zeremonie in Pirou({{ site.pdf-url }}20220508-rede-roswitha-weber-zeremonie-pirou.pdf){:target="_blank"}
+
+- 12.04.2022 - [Aktuelle Aktivitäten um Franz Sales Meyer]({{ site.pdf-url }}20220412-uebersicht-aktivitaeten-fsm.pdf){:target="_blank"} + [Büste]({{ site.pdf-url }}franz-sales-meyer-bueste.jpg){:target="_blank"}
 
 - 01.02.2022 [Multiplikatorentreffen mit Inge Auerbacher in Kenzingen: Begegnung und W&uuml;rdigung]
 
