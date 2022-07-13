@@ -11,7 +11,7 @@ title: Aktivit&auml;ten / Aktuelles
 
 - 12.04.2022 - [Aktuelle Aktivitäten um Franz Sales Meyer]({{ site.pdf-url }}20220412-uebersicht-aktivitaeten-fsm.pdf){:target="_blank"} + [Büste]({{ site.pdf-url }}franz-sales-meyer-bueste.jpg){:target="_blank"}
 
-- 01.02.2022 Multiplikatorentreffen mit Inge Auerbacher in Kenzingen: Begegnung und W&uuml;rdigung
+- 01.02.2022 - Multiplikatorentreffen mit Inge Auerbacher in Kenzingen: Begegnung und W&uuml;rdigung
 
 - 27.01.2022 - [Auf Initiative der AgGL Kenzingen: Inge Auerbacher spricht im Bundestag](https://www.bundestag.de/dokumente/textarchiv/2022/kw04-gedenkstunde-873604){:target="_blank"}
 
