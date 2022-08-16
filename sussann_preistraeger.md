@@ -76,3 +76,4 @@ Liste der Hermann-Sussann-Preisträger:
 | 41  | 2019 | Müll, Justin           | Endingen                 |
 | 42  | 2020 | Moser, Tobias          | Herbolzheim              |
 | 43  | 2021 | Borchert, Jorgos Manolis | Weisweil               |
+| 44  | 2022 | Seizinger, Frederic      | Kenzingen              |
