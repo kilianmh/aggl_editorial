@@ -62,7 +62,7 @@ Liste der Hermann-Sussann-Preisträger:
 | 27  | 2005 | Schöchlin, Simon       | Teningen                 |
 | 28  | 2006 | Fink, Andreas          | Endingen                 |
 | 29  | 2007 | Rechnitzer, Tanja      | Herbolzheim              |
-| 30  | 2008 | Kurpjuweit, Claudia    | Weisweil                 |
+| 30  | 2008 |
 | 31  | 2009 | Karl, Johannes         | Kenzingen                |
 | 32  | 2010 | Schindler, Max         | Teningen-Köndringen      |
 | 33  | 2011 | Grodziecki, Alessandro | Endingen                 |
