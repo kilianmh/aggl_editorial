@@ -8,7 +8,7 @@ Diese Editionen von {{site.dp}} sind noch verf&uuml;gbar. Kontaktieren Sie zum K
 {% include image_link.html direction="left" url="assets/images/pforte202224-meyer.jpg" description="&#34;Die Pforte&#34; 2022/24 - Sonderdruck" link="http://dl.ub.uni-freiburg.de/diglit/pforte-2022-24" preis="9" thema="Ehre für Kenzingen und Meersburg – Franz Sales Meyer (1849 – 1927)" %}
 
 {% include image_link.html direction="left" url="assets/images/pforte202021deckblatt.jpg" description="&#34;Die Pforte&#34; 2020/21 - 40/41" link="http://dl.ub.uni-freiburg.de/diglit/pforte-2021-40-41" preis="16" thema="Verschiedenes" %}
-{% include image_link.html direction="right" url="assets/images/pforte2019deckblatt.jpg" description="&#34;Die Pforte&#34; 2019 - 39" link="http://dl.ub.uni-freiburg.de/diglit/pforte-2019-39" preis="12" thema="Verschiedenes" %}  
+{% include image_link.html direction="right" url="assets/images/pforte2019deckblatt.jpg" description="&#34;Die Pforte&#34; 2019 - 39" link="http://dl.ub.uni-freiburg.de/diglit/pforte-2019-39" preis="12" thema="Erinnerungskultur - Zum Umgang mit der jüdischen Geschichte in Kenzingen" %}
 
 {% include image_link.html direction="left" url="assets/images/pforte201718deckblatt.jpg" description="&#34;Die Pforte&#34; 2017/18 - 37/38" link="http://dl.ub.uni-freiburg.de/diglit/pforte-2018-37-38" preis="14" thema="Miszellen - Verschiedenes VI" %}
 {% include image_link.html direction="right" url="assets/images/pforte201416deckblatt.jpg" description="&#34;Die Pforte&#34; 2014-16 - 34/35/36" link="http://dl.ub.uni-freiburg.de/diglit/pforte-2016-34-36" preis="7" thema="Partnerschaft Vinkovci" %}  
