@@ -5,6 +5,10 @@ title: Aktivit&auml;ten / Aktuelles
 
 ### 2022
 
+- 2022 - Ehrenplakette von der Stadt Kenzingen für Uwe Feißt
+
+- Bürgerfest 2022 - Ehrung Christel Benzin für ihre Verdienste in der AgGL und Schwarzwaldverein Ortsgruppe Kenzingen
+
 - 06.07.2022 - [42 Jahre AG (Kurzfassung)]({{ site.pdf-url }}20220706-42-jahre-aggl-kurzfassung.pdf){:target="_blank"}
 
 - 06.07.2022 - [Einladung zur Mitgliederversammlung 2022]({{ site.pdf-url }}20220706-einladung-mitgliederversammlung.pdf){:target="_blank"}
