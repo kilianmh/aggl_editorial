@@ -5,6 +5,8 @@ title: Aktivit&auml;ten / Aktuelles
 
 ### 2022
 
+- 13.11.2022 - [Eine Büste von Franz Sales Meyer steht in der Kenzinger Klostergasse ](https://www.badische-zeitung.de/eine-bueste-von-franz-sales-meyer-steht-in-der-kenzinger-klostergasse--224333483.html){:target="_blank"}
+
 - 2022 - Ehrenplakette von der Stadt Kenzingen für Uwe Feißt
 
 - Bürgerfest 2022 - Ehrung Christel Benzin für ihre Verdienste in der AgGL und Schwarzwaldverein Ortsgruppe Kenzingen
