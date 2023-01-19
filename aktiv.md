@@ -3,6 +3,12 @@ layout: page
 title: Aktivit&auml;ten / Aktuelles
 ---
 
+### 2023
+
+- 16.01.2023 Vorstandssitzung
+
+- 23.01.2023, 18.00 Uhr - [Obermayer Award 2023](https://widenthecircle.org/de/obermayer-awards/winners-2023){:target="_blank"} für Vorstandsmitglied bzw. unsere Lektorin [Roswitha Weber](https://widenthecircle.org/de/profiles/roswitha-weber){:target="_blank"} im Abgeordnetenhaus Berlin
+
 ### 2022
 
 - 16.11.2022 - [Würdigung Franz Sales Meyer](https://de.calameo.com/read/003743820a4ab2239f8a5){:target="_blank"}
