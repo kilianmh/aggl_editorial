@@ -5,6 +5,8 @@ title: Aktivit&auml;ten / Aktuelles
 
 ### 2023
 
+- 21.02.2023 - [Positionspapier zum Jubiläum „775 Jahre Stadt Kenzingen“]({{ site.pdf-url }} 20230221_Positionspapier-775-Jahre-Kenzingen.pdf){:target="_blank"}
+
 - 16.01.2023 Vorstandssitzung
 
 - 23.01.2023, 18.00 Uhr - [Obermayer Award 2023](https://widenthecircle.org/de/obermayer-awards/winners-2023){:target="_blank"} für Vorstandsmitglied bzw. unsere Lektorin [Roswitha Weber](https://widenthecircle.org/de/profiles/roswitha-weber){:target="_blank"} im Abgeordnetenhaus Berlin
