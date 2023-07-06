@@ -7,6 +7,8 @@ title: Aktivit&auml;ten / Aktuelles
 
 - 28.04.2023 -[Bericht zur Mitgliederversammlung in der Badischen Zeitung]({{ site.pdf-url }}20230428_BZ-Mitgliederversammlung-17Apr2023.pdf){:target="_blank"}
 
+- 22.04.2023 - [44 Jahre Mensch, Kultur, Geschichte]({{ site.pdf-url }}20230422_44-Jahre-Mensch-Kultur-Geschichte.pdf){:target="_blank"}
+
 - 21.02.2023 - [Positionspapier zum Jubiläum „775 Jahre Stadt Kenzingen“]({{ site.pdf-url }} 20230221_Positionspapier-775-Jahre-Kenzingen.pdf){:target="_blank"}
 
 - 16.01.2023 Vorstandssitzung
