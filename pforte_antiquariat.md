@@ -4,7 +4,7 @@ title: Pforte-Antiquariat
 
 Diese Editionen von {{site.dp}} sind noch verf&uuml;gbar. Kontaktieren Sie zum Kauf [Christel Benzin](kontakt.html).
 
-{% include image_link.html direction="left" url="assets/images/2023_Sonderdruck.jpg" description="Sonderdruck 2023" thema="Sonderdruck 2023" %}
+{% include image_link.html direction="left" url="assets/images/2023_Sonderdruck.jpeg" description="Sonderdruck 2023" thema="Sonderdruck 2023" %}
 
 {% include image_link.html direction="left" url="assets/images/pforte202224-meyer.jpg" description="&#34;Die Pforte&#34; 2022/24 - Sonderdruck" link="http://dl.ub.uni-freiburg.de/diglit/pforte-2022-24" preis="9" thema="Ehre für Kenzingen und Meersburg – Franz Sales Meyer (1849 – 1927)" %}
 
