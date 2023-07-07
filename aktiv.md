@@ -7,6 +7,8 @@ title: Aktivit&auml;ten / Aktuelles
 
 - 07.07.2023 - [Positionspapier zum Jubiläum „775 Jahre Stadt Kenzingen“]({{ site.pdf-url }}20230707_Positionspapier-Stadtjubiläum-2024.pdf){:target="_blank"}
 
+- 22.06.2023 -[Hinweisschild Hammerschmiede - Eine neue Attraktion im nördlichen Breisgau]({{ site.pdf-url }}20230622_BZ-Hinweistafel.jpg){:target="_blank"}
+
 - 23.05.2023 -[Nachlass Stadtpfarrer Heil - Als Pfarrer und Stadt vor Gericht um den Kenzinger Kirhplatz stritten]({{ site.pdf-url }}20230523_BZ-Heil-Nachlass.pdf){:target="_blank"}
 
 - 28.04.2023 -[Bericht zur Mitgliederversammlung in der Badischen Zeitung]({{ site.pdf-url }}20230428_BZ-Mitgliederversammlung-17Apr2023.pdf){:target="_blank"}
