@@ -21,9 +21,9 @@ Die Satzung der Arbeitsgemeinschaft für Geschichte und Landeskunde in Kenzingen
 1.Vorsitzender: Klaus Weber  
 2.Vorsitzender: NN  
 Schriftleiterin der Pforte: Roswitha Weber  
-Schriftführer: Dr. Herbert Walter  
+Schriftführer: Michael Keiluweit
 Kassenwartin: Christel Benzin  
-Beisitzer: Detlef Freßle, Dr. Eberhard Kimmi, Dr. Hans-Werner Retterath und Roswitha Weber, Uwe Feißt
+Beisitzer: Dr. Hans-Werner Retterath, Uwe Feißt, und Dietmar Stärk
 
 ## Geschäftsstelle
 
