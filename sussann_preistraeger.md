@@ -77,3 +77,4 @@ Liste der Hermann-Sussann-Preisträger:
 | 42  | 2020 | Moser, Tobias          | Herbolzheim              |
 | 43  | 2021 | Borchert, Jorgos Manolis | Weisweil               |
 | 44  | 2022 | Seizinger, Frederic      | Kenzingen              |
+| 45  | 2023 | Mutschler, Miriam      | Wagenstadt               |
