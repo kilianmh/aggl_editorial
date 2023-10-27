@@ -8,11 +8,24 @@ title: Aktivit&auml;ten / Aktuelles
 - 26.10.2023 - [Programm 2024 zum Jubiläum „775 Jahre Stadt Kenzingen“]({{ site.pdf-url }}Programm-Stadtjubilae
 um-2024-Endfassung.pdf){:target="_blank"}
 
+- 10.10.203 - [Historische Bahnhof soll erhalten bleiben]({{ site.pdf-url }}Bahnhof-Kenzingen.pdf){:target="_blank"}
+
+- 07.10.2023 - [Vollzeitarchiv für den Verband prüfen]({{ site.pdf-url }}Retterath_Stadtarchiv.pdf){:target="_blank"}
+
+- 28.09.2023 - ["Das Stadtarchiv erzählt die Geschichte der Gemeinde"]({{ site.pdf-url }}Stadtarchiv-Kenzingen_BZ_Sept2023.pdf){:target="_blank"}
+
+- 15-24.07.2023 - Bürgerreise nach Vinkovci zum dortigen Heimattag Die AgGL stiftet der neuen Stadtbibliothek in Vinkovci zur Eröffnungsfeier diverse Pforte-Ausgaben. OB Bosaancic plant in Novo Selo ein Museum, worin die Geschichte der ehemals Deutschen gezeigt werden soll. OB Bosaancic nimmt zur Einrichtung ausdrücklich Bezug auf die Mitwirkung unserer AgGL.
+
+- 14.07.2023 - Übergabe des Hermann-Sussann-Preis 2023 an Miriam Mutschler, Herbolzheim-Wagenstadt i.R. der Abifeier in der Üsenberghalle.
+
 - 22.06.2023 -[Hinweistafel Hammerschmiede - Eine neue Attraktion im nördlichen Breisgau]({{ site.pdf-url }}20230622_BZ-Hinweistafel.jpg){:target="_blank"}
 
 - 20.06.2023 -[Hinweistafel Hammerschmiede - Redebeitrag]({{ site.pdf-url }}20230620_Redebeitrag-Hinweistafel.pdf){:target="_blank"}
 
 - 23.05.2023 -[Nachlass Stadtpfarrer Heil - Als Pfarrer und Stadt vor Gericht um den Kenzinger Kirhplatz stritten]({{ site.pdf-url }}20230523_BZ-Heil-Nachlass.pdf){:target="_blank"}
+
+- 28.04.2023 - Aufstellung von Wegtafeln zum „Gebhard Kromer-Gedenkstein“ in Bombach durch die Ortsverwaltung Bombach.
+„175 Jahre Badische Revolution“. Siehe auch Leserbericht in BZ v. 28.04.23.
 
 - 28.04.2023 -[Bericht zur Mitgliederversammlung in der Badischen Zeitung]({{ site.pdf-url }}20230428_BZ-Mitgliederversammlung-17Apr2023.pdf){:target="_blank"}
 
