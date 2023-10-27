@@ -5,7 +5,8 @@ title: Aktivit&auml;ten / Aktuelles
 
 ### 2023
 
-- 07.07.2023 - [Positionspapier zum Jubiläum „775 Jahre Stadt Kenzingen“]({{ site.pdf-url }}20230707_Positionspapier-Stadtjubiläum-2024.pdf){:target="_blank"}
+- 26.10.2023 - [Programm 2024 zum Jubiläum „775 Jahre Stadt Kenzingen“]({{ site.pdf-url }}Programm-Stadtjubilae
+um-2024-Endfassung.pdf){:target="_blank"}
 
 - 22.06.2023 -[Hinweistafel Hammerschmiede - Eine neue Attraktion im nördlichen Breisgau]({{ site.pdf-url }}20230622_BZ-Hinweistafel.jpg){:target="_blank"}
 
