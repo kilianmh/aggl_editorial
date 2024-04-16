@@ -3,6 +3,10 @@ layout: page
 title: Aktivit&auml;ten / Aktuelles
 ---
 
+### 2024
+
+- [Jubiläumsprogramm 2024 zum Jubiläum „775 Jahre Stadt Kenzingen“]({{ site.pdf-url }}Programm-Stadtjubilaeum-2024.pdf){:target="_blank"}
+
 ### 2023
 
 - [Jahresspiegel 2023]({{ site.pdf-url }}2023_jahresspiegel.pdf){:target="_blank"}
