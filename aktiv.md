@@ -9,13 +9,15 @@ title: Aktivit&auml;ten / Aktuelles
 
 ### 2023
 
+- 17.11.2023 - Gemeinsame Vortragsveranstaltung Kath. Frauenbund/AgGL „Brautzug Marie Antoinette“, ppt-Präsentation von Reinhold Hämmerle im Kath. Gemeindehaus St. Laurentius
+
 - [Jahresspiegel 2023]({{ site.pdf-url }}2023_jahresspiegel.pdf){:target="_blank"}
 
 
 - 26.10.2023 - [Programm 2024 zum Jubiläum „775 Jahre Stadt Kenzingen“]({{ site.pdf-url }}Programm-Stadtjubilae
 um-2024-Endfassung.pdf){:target="_blank"}
 
-- 10.10.203 - [Historische Bahnhof soll erhalten bleiben]({{ site.pdf-url }}Bahnhof-Kenzingen.pdf){:target="_blank"}
+- 10.10.2023 - [Historische Bahnhof soll erhalten bleiben]({{ site.pdf-url }}Bahnhof-Kenzingen.pdf){:target="_blank"}
 
 - 07.10.2023 - [Vollzeitarchiv für den Verband prüfen]({{ site.pdf-url }}Retterath_Stadtarchiv.pdf){:target="_blank"}
 
