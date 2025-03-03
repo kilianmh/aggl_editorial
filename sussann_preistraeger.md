@@ -78,3 +78,4 @@ Liste der Hermann-Sussann-Preisträger:
 | 43  | 2021 | Borchert, Jorgos Manolis | Weisweil               |
 | 44  | 2022 | Seizinger, Frederic      | Kenzingen              |
 | 45  | 2023 | Mutschler, Miriam      | Wagenstadt               |
+| 46  | 2024 | Laube, Kevin             | Kenzingen              |
