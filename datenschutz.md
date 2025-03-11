@@ -111,3 +111,5 @@ Um die Inhalte unseres Internetauftritts schnell ausliefern zu können, greift d
 Rechtsgrundlage ist Art. 6 Abs. 1 lit. f) DSGVO. Unser berechtigtes Interesse liegt in der Beschleunigung der Ladezeiten unseres Internetauftritts sowie in dessen Optimierung.
 
 Um die Ausführung des Java-Script-Codes von jQuery insgesamt zu verhindern, können Sie einen sog. Java-Script-Blocker installieren, wie bspw. noscript.net oder ghostery.com. Sollten Sie die Ausführung des Java-Script-Codes verhindern oder einschränken, kann dies aus technischen Gründen allerdings dazu führen, dass womöglich nicht sämtliche Inhalte und Funktionen unseres Internetauftritts verfügbar sind.
+
+[Muster-Datenschutzerklärung](https://www.generator-datenschutzerklärung.de){:target="_blank" rel="noopener"} der [Anwaltskanzlei Weiß & Partner](https://www.bewertung-löschen24.de){:target="_blank" rel="nofollow noopener"}
