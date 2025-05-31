@@ -4,6 +4,8 @@ title: Jahresberichte
 date: 2020-10-30 16:00:00
 ---
 
+[Jahresspiegel 2023]({{ site.pdf-url }}Jahresspiegel_2024.pdf){:target="_blank"}
+
 [Jahresspiegel 2023]({{ site.pdf-url }}2023_jahresspiegel.pdf){:target="_blank"}
 
 [Jahresspiegel 2022]({{ site.pdf-url }}2022_jahresspiegel.pdf){:target="_blank"}
