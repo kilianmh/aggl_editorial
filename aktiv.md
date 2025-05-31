@@ -5,6 +5,8 @@ title: Aktivit&auml;ten / Aktuelles
 
 ### 2024
 
+- [Jahresspiegel 2024]({{ site.pdf-url }}Jahresspiegel_2024.pdf){:target="_blank"}
+
 - 15.11.2024 - Vortragsveranstaltung "Spätmittelalterliche Bildwerke in und um Kenzingen: Eine Spurensuche" mit PD Dr. Sebastian Bock, Referatsleiter Kunst und Denkmalpflege im Ordinariat, Freiburg
 
 - 27.09.2024 - [Vortragsveranstaltung "Heimisch werden in Kenzingen" im Rahmen des Stadtjubiläums]({{ site.pdf-url }}50740-Plakat-DinA4-Vortragsveranstaltung-AgGL-Kenzingen-Korr.pdf){:target="_blank"}
