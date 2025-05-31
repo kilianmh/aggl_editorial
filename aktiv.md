@@ -15,6 +15,8 @@ title: Aktivit&auml;ten / Aktuelles
 
 - 27.09.2024 - [Vortragsveranstaltung "Heimisch werden in Kenzingen" im Rahmen des Stadtjubiläums]({{ site.pdf-url }}50740-Plakat-DinA4-Vortragsveranstaltung-AgGL-Kenzingen-Korr.pdf){:target="_blank"}
 
+- 13.07.2024 - Übergabe des Hermann-Sussann-Preis 2024 an Kevin Laube, Kenzingen, i.R. der Abifeier in der Üsenberghalle
+
 - 26.04.2024 - [Vortragsveranstaltung "Neue Erkenntnisse und spannende Einblicke" im Rahmen des Stadtjubiläums]({{ site.pdf-url }}KORR-01-Plakat_Vortragsveranstaltung_AgGL_Kenzingen Vers. 2 .pdf){:target="_blank"}
 
 - [Jubiläumsprogramm 2024 zum Jubiläum „775 Jahre Stadt Kenzingen“]({{ site.pdf-url }}Programm-Stadtjubilaeum-2024.pdf){:target="_blank"}
@@ -37,7 +39,7 @@ um-2024-Endfassung.pdf){:target="_blank"}
 
 - 15-24.07.2023 - Bürgerreise nach Vinkovci zum dortigen Heimattag Die AgGL stiftet der neuen Stadtbibliothek in Vinkovci zur Eröffnungsfeier diverse Pforte-Ausgaben. OB Bosaancic plant in Novo Selo ein Museum, worin die Geschichte der ehemals Deutschen gezeigt werden soll. OB Bosaancic nimmt zur Einrichtung ausdrücklich Bezug auf die Mitwirkung unserer AgGL.
 
-- 14.07.2023 - Übergabe des Hermann-Sussann-Preis 2023 an Miriam Mutschler, Herbolzheim-Wagenstadt i.R. der Abifeier in der Üsenberghalle.
+- 14.07.2023 - Übergabe des Hermann-Sussann-Preis 2023 an Miriam Mutschler, Herbolzheim-Wagenstadt, i.R. der Abifeier in der Üsenberghalle.
 
 - 22.06.2023 -[Hinweistafel Hammerschmiede - Eine neue Attraktion im nördlichen Breisgau]({{ site.pdf-url }}20230622_BZ-Hinweistafel.jpg){:target="_blank"}
 
