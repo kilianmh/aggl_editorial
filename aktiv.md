@@ -3,6 +3,10 @@ layout: page
 title: Aktivit&auml;ten / Aktuelles
 ---
 
+### 2025
+
+- [10. bis 14.04.2025 - Besuch Irène Epstein de Cou mit einer Delegation von Egalayes in Kenzingen mit [Rede von Roswitha Weber]({{ site.pdf-url }}Rede_Roswitha_Irene.pdf){:target="_blank"}
+
 ### 2024
 
 - [Jahresspiegel 2024]({{ site.pdf-url }}Jahresspiegel_2024.pdf){:target="_blank"}
