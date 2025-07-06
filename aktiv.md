@@ -9,7 +9,7 @@ title: Aktivit&auml;ten / Aktuelles
 
 - [Rezension der Buchreihe "Die Pforte"]({{ site.pdf-url }}Rezension_Pforte.pdf){:target="_blank"} , Marcus Schröter, UB Freiburg
 
-- 23.04.2025 - Welttag des Buches, Pforte bei [Bücherwurm Kenzingen]({{ site.pdf-url }}Schaufenster_Bücherwurm.jpg){:target="_blank"} und [Schreibwaren Nadler]({{ site.pdf-url }}Schaufenester_Nadler.jpg){:target="_blank"} Kenzingen
+- 23.04.2025 - Welttag des Buches, Pforte bei [Bücherwurm Kenzingen]({{ site.pdf-url }}Schaufenster_Bücherwurm.pdf){:target="_blank"} und [Schreibwaren Nadler]({{ site.pdf-url }}Schaufenester_Nadler.pdf){:target="_blank"} Kenzingen
 
 -  10. bis 14.04.2025 - Besuch Irène Epstein de Cou mit einer Delegation von Egalayes in Kenzingen mit [Rede von Roswitha Weber]({{ site.pdf-url }}Rede_Roswitha_Irene.pdf){:target="_blank"}
 
