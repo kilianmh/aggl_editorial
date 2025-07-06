@@ -20,7 +20,5 @@ Telefon: 07644/7605
 E-Mail: [ch-benzin@web.de](mailto:ch-benzin@web.de)  
 
 ### Webmaster  
-Kilian M. H&auml;mmerle  
-Sisteroner Weg 6  
-79336 Herbolzheim  
-E-Mail: [kilian.haemmerle@protonmail.com](mailto:kilian.haemmerle@protonmail.com)
+Kevin Laube 
+E-Mail: [Kevin_Laube@t-online.de](mailto:Kevin_Laube@t-online.de)
