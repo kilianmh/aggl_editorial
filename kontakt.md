@@ -13,11 +13,11 @@ Telefon: 07644/7110
 E-Mail: [weber.kl@gmx.net](mailto:weber.kl@gmx.net)  
 
 ### Geschäftsstelle  
-Christel Benzin  
-Breitenfeldstr. 25  
+Hubert Klimmek
+Feldbergstraße 2  
 79341 Kenzingen  
 Telefon: 07644/7605  
-E-Mail: [ch-benzin@web.de](mailto:ch-benzin@web.de)  
+E-Mail: [hubiklimmek@t-online.de](mailto:hubiklimmek@t-online.de.de)  
 
 ### Webmaster  
 Kevin Laube 
