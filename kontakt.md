@@ -14,9 +14,8 @@ E-Mail: [weber.kl@gmx.net](mailto:weber.kl@gmx.net)
 
 ### Geschäftsstelle  
 Hubert Klimmek
-Feldbergstraße 2  
+Feldbergstraße 2    
 79341 Kenzingen  
-Telefon: 07644/7605  
 E-Mail: [hubiklimmek@t-online.de](mailto:hubiklimmek@t-online.de.de)  
 
 ### Webmaster  
