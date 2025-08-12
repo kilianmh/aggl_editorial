@@ -22,17 +22,16 @@ Die Satzung der Arbeitsgemeinschaft für Geschichte und Landeskunde in Kenzingen
 2.Vorsitzender: NN  
 Schriftleiterin der Pforte: Roswitha Weber  
 Schriftführer: Michael Keiluweit  
-Kassenwartin: Christel Benzin  
-Beisitzer: Dr. Hans-Werner Retterath, Dr. Walter, Uwe Feißt, und Dietmar Stärk
+Kassenwart: Hubert Klimmek    
+Beisitzer: Dr. Hans-Werner Retterath, Dr. Herbert Walter, Uwe Feißt, und Dietmar Stärk, Kevin Laube
 
 ## Geschäftsstelle
 
 
-Christel Benzin  
-Breitenfeldstr. 25  
-79341 Kenzingen  
-Telefon: 07644/7605  
-E-Mail: ch-benzin@web.de
+Hubert Klimmek    
+Feldbergstraße 2    
+79341 Kenzingen   
+E-Mail: hubiklimmek@t-online.de
 
 ## Bankverbindungen
 
