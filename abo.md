@@ -10,8 +10,7 @@ können Sie "Die Pforte" abonnieren.
 Bitte senden Sie das ausgefüllte Formular an folgende Adresse:
 
 AG für Geschichte und Landeskunde in Kenzingen e.V.  
-Christel Benzin  
-Breitenfeldstr. 25  
+Hubert Klimmek
+Feldbergstraße 2
 79341 Kenzingen
-Telefon: 07644/7605
-E-Mail: ch-benzin@web.de
+E-Mail: hubiklimmek@t-online.de
