@@ -80,4 +80,4 @@ Liste der Hermann-Sussann-Preisträger:
 | 45  | 2023 | Mutschler, Miriam      | Wagenstadt               |
 | 46  | 2024 | Laube, Kevin             | Kenzingen              |
 | 47  | 2025 | Lenßen, Darja          | Teningen                 |
-| 48  |      | Breisacher, Inga         |                        |
+| 48  |      | Breisacher, Inga         | Teningen               |
