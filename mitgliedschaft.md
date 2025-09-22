@@ -11,6 +11,6 @@ können Sie den Beitritt zur AgGL erklären.
 Bitte senden Sie das ausgefüllte Formular an folgende Adresse:
 
 AG für Geschichte und Landeskunde in Kenzingen e.V.  
-Christel Benzin  
-Breitenfeldstr. 25  
-79341 Kenzingen
+Hubert Klimmek  
+Feldbergstraße 2  
+79341 Kenzingen  
