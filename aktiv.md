@@ -25,6 +25,8 @@ title: Aktivit&auml;ten / Aktuelles
 
 - 26.04.2024 - [Vortragsveranstaltung "Neue Erkenntnisse und spannende Einblicke" im Rahmen des Stadtjubiläums]({{ site.pdf-url }}KORR-01-Plakat_Vortragsveranstaltung_AgGL_Kenzingen Vers. 2 .pdf){:target="_blank"}
 
+- 16.03.2024 - [Präsentation Jubiläumsband DIE PFORTE]({{ site.pdf-url }}Jubiläumsband_2024.pdf){:target="_blank"}
+
 - [Jubiläumsprogramm 2024 zum Jubiläum „775 Jahre Stadt Kenzingen“]({{ site.pdf-url }}Programm-Stadtjubilaeum-2024.pdf){:target="_blank"}
 
 ### 2023
