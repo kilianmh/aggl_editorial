@@ -3,7 +3,7 @@ layout: page
 title: Willkommen bei der Arbeitsgemeinschaft f&uuml;r Geschichte und Landeskunde in Kenzingen e.V.
 ---
 
-{% include image.html direction="right" url="assets/images/CoverPforte 2022-2024.jpg" description="Die Pforte Digital" link="http://dl.ub.uni-freiburg.de/diglit/pforte" %}  
+{% include image.html direction="right" url="assets/dokumente/Umschlag-Pforte-2025-2026-TitelKorr.pdf" description="Die Pforte Digital" link="http://dl.ub.uni-freiburg.de/diglit/pforte" %}  
 
 Zur Erforschung und Darstellung des Kulturerbes, der Geschichte der Stadt [Kenzingen und ihren Stadtteilen](https://osm.org/go/0DLCRNw--?relation=1124273){:target="_blank"} gibt die „Arbeitsgemeinschaft für Geschichte und Landeskunde in Kenzingen e.V.“ zweijährlich die regionalgeschichtliche Buchreihe ["Die Pforte"](pforte.html) und Themensonderdrucke heraus.  
 
