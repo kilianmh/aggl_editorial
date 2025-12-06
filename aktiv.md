@@ -7,7 +7,7 @@ title: Aktivit&auml;ten / Aktuelles
 
 - November 2025 - Buchpublikation ["Erinnerungen für HEUTE und MORGEN. Gedenken-Lernen-Handeln in der Grundschule"]({{ site.baseurl }}/Buch_Erinnerungen.html) von Inge Auerbacher, Roswitha Weber und Bianca Weber-Lewerenz. Springer Nature Verlag, Wiesbaden, 2025. Hier: Beitrag von Klaus Weber "Inge und Geschichtsarbeit (Kapitel 4.3, S.181ff.)
 
-- 7.10.2025 - [BZ-Pressegespräch zur neuen Pforte]({{ site.baseurl }}/assets/images/BZ 07.10.25.jpeg)
+- 7.10.2025 - [BZ-Pressegespräch zur neuen Pforte]({{ site.baseurl }}/assets/images/BZ 07.10.25.jpeg){:target="_blank"}
 
 - 12.07.2025 - Übergabe des Hermann-Sussann-Preis 2025 an Darja Lenßen und Inga Breisacher i. R. der Abifeier in der Üsenberghalle
 
@@ -17,7 +17,7 @@ title: Aktivit&auml;ten / Aktuelles
 
 - 23.04.2025 - Welttag des Buches, Pforte bei [Bücherwurm Kenzingen]({{ site.pdf-url }}Schaufenster_Bücherwurm.pdf){:target="_blank"} und [Schreibwaren Nadler]({{ site.pdf-url }}Schaufenester_Nadler.pdf){:target="_blank"} Kenzingen
 
--  10. bis 14.04.2025 - Besuch Irène Epstein de Cou mit einer Delegation von Egalayes in Kenzingen mit [Rede von Roswitha Weber]({{ site.pdf-url }}Rede_Roswitha_Irene.pdf){:target="_blank"}
+-  10\. bis 14.04.2025 - Besuch Irène Epstein de Cou mit einer Delegation von Egalayes in Kenzingen mit [Rede von Roswitha Weber]({{ site.pdf-url }}Rede_Roswitha_Irene.pdf){:target="_blank"}
 
 ### 2024
 
