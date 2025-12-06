@@ -5,6 +5,8 @@ title: Aktivit&auml;ten / Aktuelles
 
 ### 2025
 
+- Oktober 2025: Veröffentlichung des Buches ["Erinnerungen für HEUTE und MORGEN. Gedenken-Lernen-Handeln in der Grundschule"]({{ site.baseurl }}/Buch_Erinnerungen.html)
+
 - 12.07.2025 - Übergabe des Hermann-Sussann-Preis 2025 an Darja Lenßen und Inga Breisacher i. R. der Abifeier in der Üsenberghalle
 
 - 05.05.2025 - [Mitgliederversammlung der AgGL]({{ site.pdf-url }}Einladung_MV_25.pdf){:target="_blank"}
