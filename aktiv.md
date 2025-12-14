@@ -5,6 +5,8 @@ title: Aktivit&auml;ten / Aktuelles
 
 ### 2025
 
+- [Jahresspiegel 2025]({{ site.pdf-url }}Jahresspiegel_2025.pdf){:target="_blank"}
+
 - November 2025 - Buchpublikation ["Erinnerungen für HEUTE und MORGEN. Gedenken-Lernen-Handeln in der Grundschule"]({{ site.baseurl }}/Buch_Erinnerungen.html) von Inge Auerbacher, Roswitha Weber und Bianca Weber-Lewerenz. Springer Nature Verlag, Wiesbaden, 2025. Hier: Beitrag von Klaus Weber "Inge und Geschichtsarbeit (Kapitel 4.3, S.181ff.)
 
 - 24.10.2025 - Präsentation DIE PFORTE 2025-26 in der Aula des Gymnasiums, [Bild der Autor:innengruppe (Werner Schnabl)]({{ site.baseurl }}/assets/images/Autorengruppe_Pforte.jpg){:target="_blank"}
