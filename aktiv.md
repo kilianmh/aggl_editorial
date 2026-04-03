@@ -3,6 +3,10 @@ layout: page
 title: Aktivit&auml;ten / Aktuelles
 ---
 
+### 2026
+
+- 07.03.2026 - [Besuch des Breisgau Geschichtsvereins]({{ site.pdf-url }}20260307_Bericht_Besuch_Breisgau-Geschichtsverein.pdf){:target="_blank"} mit Besichtigung [Kenzingen]({{ site.baseurl }}/assets/images/20260307_Besuch_Breisgau_Geschichtsverein1.jpg){:target="_blank"} und [Kirnhalden]({{ site.baseurl }}/assets/images/20260307_Besuch_Breisgau_Geschichtsverein2.jpg){:target="_blank"} (Bilder: Hans-Werner Retterath)
+
 ### 2025
 
 - [Jahresspiegel 2025]({{ site.pdf-url }}Jahresspiegel_2025.pdf){:target="_blank"}
@@ -11,7 +15,7 @@ title: Aktivit&auml;ten / Aktuelles
 
 - 24.10.2025 - [Präsentation DIE PFORTE 2025-26 in der Aula des Gymnasiums]({{ site.pdf-url }}Präsentation_Pforte_25_26.pdf){:target="_blank"}, [Bild der Autor:innengruppe (Werner Schnabl)]({{ site.baseurl }}/assets/images/Autorengruppe_Pforte.jpg){:target="_blank"}, [Rede Klaus Weber]({{ site.pdf-url }}Einführung_24_10_25.pdf){:target="_blank"}, [Rede Roswitha Weber]({{ site.pdf-url }}Beitrag_Lektorin_24_10_25..pdf){:target="_blank"}
 
-- 7.10.2025 - [BZ-Pressegespräch zur neuen Pforte]({{ site.baseurl }}/assets/images/BZ 07.10.25.jpeg){:target="_blank"}
+- 07.10.2025 - [BZ-Pressegespräch zur neuen Pforte]({{ site.baseurl }}/assets/images/BZ 07.10.25.jpeg){:target="_blank"}
 
 - 12.07.2025 - Übergabe des Hermann-Sussann-Preis 2025 an Darja Lenßen und Inga Breisacher i. R. der Abifeier in der Üsenberghalle
 
