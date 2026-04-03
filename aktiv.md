@@ -5,6 +5,8 @@ title: Aktivit&auml;ten / Aktuelles
 
 ### 2026
 
+- [Einladung zur Mitgliederversammlung]({{ site.pdf-url }}20260504_Einladung_Mitgliederversammlung.pdf){:target="_blank"} am 04.05.2026
+
 - 07.03.2026 - [Besuch des Breisgau Geschichtsvereins]({{ site.pdf-url }}20260307_Bericht_Besuch_Breisgau-Geschichtsverein.pdf){:target="_blank"} mit Besichtigung [Kenzingen]({{ site.baseurl }}/assets/images/20260307_Besuch_Breisgau_Geschichtsverein1.jpg){:target="_blank"} und [Kirnhalden]({{ site.baseurl }}/assets/images/20260307_Besuch_Breisgau_Geschichtsverein2.jpg){:target="_blank"} (Bilder: Hans-Werner Retterath)
 
 ### 2025
