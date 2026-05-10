@@ -5,7 +5,7 @@ title: Aktivit&auml;ten / Aktuelles
 
 ### 2026
 
-- 07.05.2026 - [BZ-Artikel über "Erinnerungen für HEUTE und MORGEN"]({{ site.pdf-url }}20260507_BZ_Erinnerungen){:target="_blank"}
+- 07.05.2026 - [BZ-Artikel über "Erinnerungen für HEUTE und MORGEN"]({{ site.pdf-url }}20260507_BZ_Erinnerungen.pdf){:target="_blank"}
 
 - 04.05.2026 - [Laudatio für Rowsitha Weber im Rahmen der Mitgliederversammlung]({{ site.pdf-url }}20260504_Laudatio_RWeber.pdf){:target="_blank"}
 
